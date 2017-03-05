@@ -2,6 +2,7 @@
 Java code for computing normalized mutual information
 
 compute_mutual_information(Array_a, Array_b)
+
 input: Array_a, Array_b
 return double mutual information
 
